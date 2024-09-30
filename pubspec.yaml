@@ -1,6 +1,6 @@
 name: test_coverage_badge
 description: This package provides a CLI tool to generate and display test coverage badges for Dart projects.
-version: 0.3.0
+version: 0.3.2
 homepage: https://github.com/MohiuddinM/test_coverage_badge
 
 environment:
@@ -11,7 +11,6 @@ executables:
 
 dependencies:
   path: ^1.6.1
-  glob: ^2.0.0
   args: ^2.5.0
 
 dev_dependencies:

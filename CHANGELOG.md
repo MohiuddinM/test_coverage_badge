@@ -1,3 +1,11 @@
+## [0.3.2]
+
+* remove glob dep
+
+## [0.3.1]
+
+* update readme
+
 ## [0.3.0]
 
 * update deps
